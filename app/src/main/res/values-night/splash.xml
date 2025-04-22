@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Expense.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FAF7E3</item>
+<!--        <item name="android:windowFullscreen">true</item>-->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/expense_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.SplashScreen.IconBackground</item>
+    </style>
+</resources>
